@@ -1,5 +1,5 @@
 [
-  {"observation_id":"o-1","source_id":"global-desk","region":"global","language":"en","observed_on":"2026-11-01","topic":"international-cooperation","value":4},
-  {"observation_id":"o-2","source_id":"regional-review","region":"east-asia","language":"zh","observed_on":"2026-11-01","topic":"international-cooperation","value":2},
-  {"observation_id":"o-3","source_id":"global-desk","region":"global","language":"en","observed_on":"2026-11-08","topic":"international-cooperation","value":5}
+  {"observation_id":"o-1","source_id":"global-desk","region":"global","language":"en","observed_on":"2026-11-01","topic":"international-cooperation","value":4,"stance":"support","excerpt":"joint statement issued after the ministerial meeting"},
+  {"observation_id":"o-2","source_id":"regional-review","region":"east-asia","language":"zh","observed_on":"2026-11-01","topic":"international-cooperation","value":2,"stance":"contradict","excerpt":"联合声明并未涵盖全部议程","translation":{"translator":"desk-zh","text":"the joint statement did not cover the full agenda","status":"ambiguous","ambiguity_notes":"“涵盖”在上下文中可指议程或签署方"}},
+  {"observation_id":"o-3","source_id":"global-desk","region":"global","language":"en","observed_on":"2026-11-08","topic":"international-cooperation","value":5,"stance":"support"}
 ]
